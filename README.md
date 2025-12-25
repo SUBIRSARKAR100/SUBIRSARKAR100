@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech Computer Science & Engineering (2025)<br><br>📊 Aspiring Data Analyst with a strong foundation in Python, SQL, and Excel<br><br>🤖 Building ML & DL models and continuously learning advanced techniques<br><br>📈 Experienced in building analytics dashboards and ML-based projects<br><br>📱 Developed real-world applications using Android, Firebase, and modern tools<br><br>🚀 Continuously learning and focused on creating impactful, scalable solutions
+🎓 B.Tech Computer Science & Engineering (2025)<br><br>📊 Aspiring Data Analyst with a strong foundation in Python, Machine Learning,Deep-Learning,SQL, and Excel<br><br>🤖 Building ML & DL models and continuously learning advanced techniques<br><br>📈 Experienced in building analytics in business Problean and ML-based projects<br><br>📱 Developed real-world applications using Android, Firebase, and modern tools<br><br>🚀 Continuously learning and focused on creating impactful, scalable solutions
 
 
 ## 🌐 Socials:
